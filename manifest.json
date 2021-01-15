@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"version": "1.0",
+	"name": "Hide Selenium",
+	"description": "Used to hide selenium by changing JavaScript variables which are modified by Selenium and could be used as part of detecting a Selenium Chrome Driver.",
+	
+	
+	"icons":
+	{
+		"16": "images/16_logo.png",
+		"48": "images/48_logo.png",
+		"128": "images/128_logo.png"
+	}
+}
